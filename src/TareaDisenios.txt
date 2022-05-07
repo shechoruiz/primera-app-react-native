@@ -1,0 +1,332 @@
+1ra Imagen:
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#28425B',
+  },
+  cajaMorada: {
+    width: 100,
+    height: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#5856d6',
+  },
+  cajaNaranja: {
+    width: 100,
+    height: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#f0a23b',
+    flex: 1,
+  },
+  cajaCeleste: {
+    width: 100,
+    height: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#28c4d9',
+  },
+});
+
+######################################
+2da Imagen:
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#28425B',
+    justifyContent: 'center',
+  },
+  cajaMorada: {
+    width: 100,
+    height: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#5856d6',
+  },
+  cajaNaranja: {
+    width: 100,
+    height: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#f0a23b',
+  },
+  cajaCeleste: {
+    height: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#28c4d9',
+  },
+});
+
+
+######################################
+3ra Imagen:
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#28425B',
+    justifyContent: 'center',
+  },
+  cajaMorada: {
+    width: 100,
+    height: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#5856d6',
+    alignSelf: 'flex-end',
+  },
+  cajaNaranja: {
+    width: 100,
+    height: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#f0a23b',
+  },
+  cajaCeleste: {
+    width: 100,
+    height: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#28c4d9',
+    alignSelf: 'center',
+  },
+});
+
+######################################
+4ta Imagen:
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#28425B',
+    justifyContent: 'center',
+  },
+  cajaMorada: {
+    width: 100,
+    height: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#5856d6',
+    position: 'absolute',
+    top: 0,
+    right: 0,
+  },
+  cajaNaranja: {
+    width: 100,
+    height: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#f0a23b',
+    alignSelf: 'center',
+  },
+  cajaCeleste: {
+    width: 100,
+    height: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#28c4d9',
+    position: 'absolute',
+    bottom: 0,
+  },
+});
+
+######################################
+5ta Imagen:
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#28425B',
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+  },
+  cajaMorada: {
+    width: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#5856d6',
+  },
+  cajaNaranja: {
+    width: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#f0a23b',
+  },
+  cajaCeleste: {
+    width: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#28c4d9',
+  },
+});
+
+######################################
+6ta Imagen:
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#28425B',
+  },
+  cajaMorada: {
+    height: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#5856d6',
+    flex: 1,
+  },
+  cajaNaranja: {
+    height: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#f0a23b',
+    flex: 1,
+  },
+  cajaCeleste: {
+    height: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#28c4d9',
+    flex: 2,
+  },
+});
+
+######################################
+7ta Imagen:
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#28425B',
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  cajaMorada: {
+    width: 100,
+    height: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#5856d6',
+  },
+  cajaNaranja: {
+    width: 100,
+    height: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#f0a23b',
+  },
+  cajaCeleste: {
+    width: 100,
+    height: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#28c4d9',
+  },
+});
+
+######################################
+8va Imagen:
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#28425B',
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  cajaMorada: {
+    width: 100,
+    height: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#5856d6',
+  },
+  cajaNaranja: {
+    width: 100,
+    height: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#f0a23b',
+    left: 100,
+  },
+  cajaCeleste: {
+    width: 100,
+    height: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#28c4d9',
+  },
+});
+
+######################################
+9va Imagen:
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#28425B',
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  cajaMorada: {
+    width: 100,
+    height: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#5856d6',
+    top: 100,
+  },
+  cajaNaranja: {
+    width: 100,
+    height: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#f0a23b',
+    left: 100,
+  },
+  cajaCeleste: {
+    width: 100,
+    height: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#28c4d9',
+  },
+});
+
+######################################
+10ma Imagen:
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#28425B',
+    flexDirection: 'row',
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  cajaMorada: {
+    width: 100,
+    height: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#5856d6',
+  },
+  cajaNaranja: {
+    width: 100,
+    height: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#f0a23b',
+    top: 50,
+  },
+  cajaCeleste: {
+    width: 100,
+    height: 100,
+    borderWidth: 10,
+    borderColor: 'white',
+    backgroundColor: '#28c4d9',
+  },
+});
